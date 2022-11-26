@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: antiquewhite;
+    position: relative;
+}
+.sub_body {
+    margin: 0 50px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    box-shadow: 0px 4px 16px 1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 4px 16px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 4px 16px 1px rgba(0,0,0,0.75);
+}
+
+header {
+    position: relative;
+}
+.title {
+    height: 200px;
+    position: relative; 
+    overflow: hidden;
+}
+
+.title h1 {
+    font-size: 7rem;
+    position: absolute;
+    text-align: center;
+    display: inline;
+    white-space: nowrap;
+    top: 30%;
+    left: 30%;
+    color: blue;
+    
+}
+
+
+.title img {
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.5;
+}
+
+nav {
+    background-color: rgb(155, 208, 245);
+    height: 70px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    overflow: auto;
+    white-space: nowrap;      
+}
+
+nav::-webkit-scrollbar{
+ height: 2px;
+ width: 0px;
+}
+
+nav::-webkit-scrollbar-track {
+    background-color: rgb(12, 152, 240);
+    
+}
+
+nav::-webkit-scrollbar-thumb {
+    background-color: whitesmoke;
+}
+
+nav ul {
+    list-style-type: none;
+    
+    
+}
+nav ul li {
+    display: inline-block;
+    margin: 25px 20px;
+    
+}
+
+nav ul li a, nav ul li a:visited {
+    color: white;
+    padding: 10px;
+    background-color: rgb(16, 152, 152);
+    text-decoration: none;
+    border-radius: 1rem;
+    font-size: 20px;
+    top: 50%;
+}
+
+nav ul li a:hover, nav ul li a:active {
+    background-color: rgb(23, 240, 240);
+    color: rgb(100, 95, 95);
+    transition: 1s;
+    
+}
+
+.section1 {
+    margin-top: 100px;
+}
+
+.section1 .article1 h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.section1 .article1 img {
+    width: auto;
+}
+
+
+.column {
+    columns: 2;
+}
+
+.garbage {
+    margin-top: 100px;
+    columns: 2;
+}
+
+.garbage p {
+    margin-top: 30px;
+}
+

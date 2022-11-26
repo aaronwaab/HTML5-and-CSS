@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\bin\Debug\net6.0\webproject.exe
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\bin\Debug\net6.0\webproject.deps.json
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\bin\Debug\net6.0\webproject.runtimeconfig.json
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\bin\Debug\net6.0\webproject.dll
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\bin\Debug\net6.0\webproject.pdb
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.dll
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\refint\webproject.dll
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.pdb
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\webproject.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Desktop\programing\html\webproject\webproject\obj\Debug\net6.0\ref\webproject.dll

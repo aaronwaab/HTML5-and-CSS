@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+    padding: 0;
+   
+}
+.menuNav {
+    text-align: center;
+    list-style-position: inside;
+    border: 2px solid gray;
+    border-radius: 2rem;
+    max-width: 600px;
+    margin: 0 auto 1rem;
+    font-size: 2rem;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.44);
+-webkit-box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.44);
+-moz-box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.44);
+}
+
+.menuNav ul {
+    list-style-type: none;
+    
+}
+
+.menuNav li {
+    display: inline;
+    zoom: 1;
+    
+    background-color: papayawhip;
+    text-decoration: none;
+    margin: 0 2rem;
+    border-radius: 1rem;
+    
+
+    
+}
+
+.menuNav li a,
+li a:visited {
+    
+    text-decoration: none;
+    color: black;
+    border-radius: 1rem;
+    padding: 0;
+    border: 1.5px solid gray;
+    transition: transform 250ms;
+
+    
+    
+}
+
+.menuNav li a:hover,
+li a:focus {
+    background-color: gray;
+    color: whitesmoke;
+    cursor: pointer;
+    transform: translateY(-10px)
+}
